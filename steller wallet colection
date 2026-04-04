@@ -1,0 +1,10 @@
+stellar-wallet-app/
+ └── frontend/
+      ├── src/
+      │    ├── App.jsx
+      │    ├── stellar.js
+      │    ├── main.jsx
+      │    └── App.css
+      ├── index.html
+      ├── package.json
+      └── vite.config.js

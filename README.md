@@ -1,17 +1,18 @@
 # 🚀 Stellar Wallet App
 
 ## 📌 Project Overview
-Stellar Wallet App is a blockchain-based web application built using React and Stellar SDK.  
-It allows users to create Stellar wallets, check account balances, and send XLM tokens on the Stellar Testnet.
+Stellar Wallet App is a blockchain-based web application built using React, Vite, JavaScript, and Stellar SDK.
 
-This project demonstrates how blockchain wallets and transactions work in a simple and practical way.
+It allows users to create Stellar wallets, generate public and secret keys, fund accounts using Friendbot, check wallet balances, send XLM tokens, and view transaction status on Stellar Testnet.
+
+This project demonstrates blockchain wallet management, secure payments, and real-time balance tracking.
 
 ---
 
 ## ✨ Features
 - Create new Stellar wallet
 - Generate Public Key and Secret Key
-- Fund wallet using Friendbot (Testnet)
+- Fund wallet using Friendbot
 - Check wallet balance
 - Send XLM to another wallet
 - Show transaction success or failure status
@@ -22,8 +23,8 @@ This project demonstrates how blockchain wallets and transactions work in a simp
 - React.js
 - JavaScript
 - Node.js
-- Stellar SDK
 - Vite
+- Stellar SDK
 
 ---
 
@@ -31,4 +32,4 @@ This project demonstrates how blockchain wallets and transactions work in a simp
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone 
